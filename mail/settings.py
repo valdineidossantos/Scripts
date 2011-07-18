@@ -1,5 +1,3 @@
-
-
 from os import path
 
 BASE_PATH =  path.realpath ( path.dirname( __file__ ) )
@@ -124,3 +122,6 @@ INSTALLED_APPS = (
     'website',
 
 )
+
+
+
